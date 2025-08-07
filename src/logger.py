@@ -16,7 +16,7 @@ logging.basicConfig(
 )
 
 
-    logging.info("Logging has started")
+    # logging.info("Logging has started")
     # logging.info(f"Log file created at: {LOG_FILE_PATH}")
     # logging.info("This is an info message")
     # logging.error("This is an error message")
